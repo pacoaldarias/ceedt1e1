@@ -1,13 +1,13 @@
 /*
  * Programa que suma dos numeros
   */
-package ceed_t1e1;
+package ceedt1e1;
 
 /**
  *
  * @author paco
  */
-public class Ceed_t1e1 {
+public class Ceedt1e1 {
         static double a=1,b=2,c;    
 
     /**
