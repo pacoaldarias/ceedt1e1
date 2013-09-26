@@ -5,7 +5,7 @@ package ceedt1e1;
 
 /**
  *
- * @author paco
+ * @author Paco Aldarias
  */
 public class Ceedt1e1 {
         static double a=1,b=2,c;    
